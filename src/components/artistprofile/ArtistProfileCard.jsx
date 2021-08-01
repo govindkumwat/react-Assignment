@@ -4,9 +4,10 @@ import avatar from '../../images/tiger.jpg'
 export const ArtistProfileCard = () => {
     return (
         <div className='container-fluid'>
+            
             <h1 className="fw-bold navbar-brand text-center mt-2 fs-2">Faningo</h1>
             <hr />
-
+            <div className='col-12 mx-auto' >
             <div class="card mx-auto" style={{ width: "22rem" }}>
                 <img src={avatar} class="img avatar" alt="profilepic" />
                 <div class="card-body">
@@ -28,7 +29,7 @@ export const ArtistProfileCard = () => {
                 </div>
             </div>
 
-
+            </div>
         </div>
     )
 }

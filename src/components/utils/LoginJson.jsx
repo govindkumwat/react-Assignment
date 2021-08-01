@@ -1,8 +1,6 @@
 import React from 'react'
 import {NavLink} from 'react-router-dom'
-import { Login } from '../login/Login'
-import  web  from '../../images/robo.svg'
-import {ArtistLogin} from '../login/ArtistLogin'
+
 
 export const LoginJson = (props) => {
     return (
@@ -45,7 +43,7 @@ export const LoginJson = (props) => {
                                         </div>
                                         <NavLink to={props.redirect} class="btn btn-primary navfont">Login</NavLink>
                                     </form>
-                                    <p className='mt-5 navfont'>Not A Member? <NavLink to="/">Sign up</NavLink></p>
+                                    <p className='mt-5 navfont'>Not A Member? <NavLink to={props.signup} >Sign up</NavLink></p>
                                 </div>
                             </div>
                         </div>

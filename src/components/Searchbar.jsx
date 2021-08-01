@@ -9,7 +9,7 @@ export const Searchbar = (props) => {
     };
     return (
         <div>
-            <div class=" col-6 d-flex mx-auto">
+            <div className=" col-8  mx-auto">
                 <input class="form-control me-2 navfont" type="search" placeholder="Search Artists" aria-label="Search" value={props.term} onChange={getSearchTerm} ref={inputEl} />
                 
             </div>

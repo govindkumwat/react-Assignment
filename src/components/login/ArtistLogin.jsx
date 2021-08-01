@@ -1,6 +1,4 @@
 import React from 'react'
-import {NavLink} from 'react-router-dom'
-import { Login } from './Login'
 import { LoginJson } from '../utils/LoginJson'
 
 export const ArtistLogin = (props) => {
@@ -12,6 +10,7 @@ export const ArtistLogin = (props) => {
            loginAs = "Bussiness"
            heading = "Artist Login"
            redirect = "/addartistdetails"
+           signup = "/bussinesssignup"
            
            />
         </>

@@ -9,6 +9,8 @@ import {Login} from './components/login/Login';
 import {ArtistLogin} from './components/login/ArtistLogin'
 import {AddProfile} from './components/artistprofile/AddProfile'
 import { ArtistProfileCard } from './components/artistprofile/ArtistProfileCard';
+import { ArtistSignup } from './components/login/ArtistSignup';
+import { BussinessSignup } from './components/login/BussinessSignup';
 
 
 
@@ -28,6 +30,8 @@ function App() {
           <Route exact path='/carddetails' component={CardDetails}/> 
           <Route exact path='/login' component={Login} /> 
           <Route exact path='/loginartist' component={ArtistLogin}/>
+          <Route exact path='/artistsignup' component={ArtistSignup}/>
+          <Route exact path='/bussinesssignup' component={BussinessSignup}/>
           <Route exact path='/addartistdetails' component={AddProfile}/>
           <Route exact path='/artistprofilecard' component={ArtistProfileCard}/>
 

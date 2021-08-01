@@ -5,7 +5,7 @@ export const AddProfile = () => {
         <div>
             <h1 className="fw-bold navbar-brand text-center mt-2 fs-2">Faningo</h1>
             <hr />
-            <div className="col-4 mx-auto">
+            <div className="col-10 col-lg-6 col-md-6 mx-auto">
                 <form>
 
                     <div>

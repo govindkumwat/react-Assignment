@@ -15,6 +15,7 @@ export const Login = () => {
            loginAs = "Artist"
            heading = "Bussiness Login"
            redirect = "home"
+           signup = "/artistsignup"
            
            />
         </>

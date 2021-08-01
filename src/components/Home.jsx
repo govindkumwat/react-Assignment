@@ -1,6 +1,4 @@
 import React, { useState } from 'react'
-import { Switch } from 'react-router';
-import { BrowserRouter as Router, Link, Route,  useParams } from 'react-router-dom'
 import './homecard.css'
 import {Navbar} from './Navbar'
 import { MenuItems } from './MenuItems/ArtistCards';

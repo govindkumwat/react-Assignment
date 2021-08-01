@@ -1,6 +1,6 @@
 import { NavLink } from 'react-router-dom'
 import AiOutlineHeart from '../icons/Cart'
-import React, { useRef } from 'react'
+
 
 
 export const Navbar = (props) => {
@@ -19,7 +19,7 @@ export const Navbar = (props) => {
                                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul className="navbar-nav ms-auto mb-2 mb-lg-0 fs-5 navfont">
                                         <li className="nav-item navfont ">
-                                            <NavLink className="nav-link active navfont" aria-current="page" to="/">Home</NavLink>
+                                            <NavLink className="nav-link active navfont" aria-current="page" to="/home">Home</NavLink>
                                         </li>
                                         <li className="nav-item">
                                             <NavLink className="nav-link navfont" to="/about">About</NavLink>
