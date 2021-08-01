@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a84724e.chunk.css",
+    "main.js": "/static/js/main.b0858fe5.chunk.js",
+    "main.js.map": "/static/js/main.b0858fe5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.44e1c208.js",
+    "runtime-main.js.map": "/static/js/runtime-main.44e1c208.js.map",
+    "static/css/2.4be38407.chunk.css": "/static/css/2.4be38407.chunk.css",
+    "static/js/2.ffaaee60.chunk.js": "/static/js/2.ffaaee60.chunk.js",
+    "static/js/2.ffaaee60.chunk.js.map": "/static/js/2.ffaaee60.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.9a84724e.chunk.css.map": "/static/css/main.9a84724e.chunk.css.map",
+    "static/js/2.ffaaee60.chunk.js.LICENSE.txt": "/static/js/2.ffaaee60.chunk.js.LICENSE.txt",
+    "static/media/Gauhar-Khan-Hot-2013-HD.a42ee3d8.jpg": "/static/media/Gauhar-Khan-Hot-2013-HD.a42ee3d8.jpg",
+    "static/media/Jennifer-Grover.c3447658.jpg": "/static/media/Jennifer-Grover.c3447658.jpg",
+    "static/media/Shrutihassan.cb87de45.jpg": "/static/media/Shrutihassan.cb87de45.jpg",
+    "static/media/allu.802f4bfe.jpg": "/static/media/allu.802f4bfe.jpg",
+    "static/media/krithi.20caad27.jpg": "/static/media/krithi.20caad27.jpg",
+    "static/media/nassar.9cb7a263.jpg": "/static/media/nassar.9cb7a263.jpg",
+    "static/media/rasmika.addbaf80.jpg": "/static/media/rasmika.addbaf80.jpg",
+    "static/media/sakti.82a2933b.jpg": "/static/media/sakti.82a2933b.jpg",
+    "static/media/tiger.ea5acfbb.jpg": "/static/media/tiger.ea5acfbb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44e1c208.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.ffaaee60.chunk.js",
+    "static/css/main.9a84724e.chunk.css",
+    "static/js/main.b0858fe5.chunk.js"
+  ]
+}
